@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DomesticFeeder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="espacio_vacio"> </string>
+	<string name="buttonSave">Guardar</string>
+	<string name="tfssh">Turtle Feeder SSH (Conexión)</string>
+	<string name="ingreseU">Ingrese Usuario</string>
+	<string name="ingresoC">Ingrese Contraseña</string>
+	<string name="ingreseIP">Ingrese dirección IP</string>
+	<string name="ingresoP">Ingrese el puerto</string>
+	<string name="ingresoComando">Ingrese instrucción para consola</string>
+	<string name="UVG">Universidad del Valle de Guatemala 2014</string>
+	<string name="actionBar">añadir comando</string>
+	<string name="actionBarRefresh">Refresh</string>
+	<string name="action_search">Search</string>
+	<string name="edit_bar">Conexión</string>
+	<string name="buttonDelete">Eliminar</string>
+	<string name="action_about">Acerca</string>
+	<string name="ingreso_nombre">Ingrese el nombre del comando</string>
+	<string name="ingreso_comando">Ingrese instrucción</string>
+	<string name="refresh">Actualizar</string>
+	<string name="feed_string">Feed Turtle</string>
+	<string name="tiempo">ingrese el tiempo de ejecución</string>
+	 <string name="btn_calendar">Calendario</string>
+    <string name="btn_time">Tiempo</string>
+	 <string name="details_alarm_name">Alarm Name</string>
+	<string name="details_repeat_weekly">Repeat Weekly</string>
+	<string name="details_sunday">Sunday</string>
+	<string name="details_monday">Monday</string>
+	<string name="details_tuesday">Tuesday</string>
+	<string name="details_wednesday">Wednesday</string>
+	<string name="details_thursday">Thursday</string>
+	<string name="details_friday">Friday</string>
+	<string name="details_saturday">Saturday</string>
+	<string name="details_alarm_tone">Alarm Tone</string>
+	<string name="details_alarm_tone_default">Select an alarm tone</string>
+	
+	
+</resources>
